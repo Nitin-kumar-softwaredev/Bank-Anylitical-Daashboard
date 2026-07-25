@@ -1,0 +1,51 @@
+"branch_id","branch_name","branch_type","city","state","total_employees","total_accounts","total_customers","total_deposits","total_transactions","total_transaction_amount"
+1,"SBI Pune Branch 1","Rural","Pune","Maharashtra",3,3,3,638689.00,47,33830651.88
+2,"SBI Noida Branch 2","Urban","Noida","Uttar Pradesh",3,6,6,1251085.00,109,85595186.88
+3,"SBI Surat Branch 3","Urban","Surat","Gujarat",3,8,7,3713014.00,116,93611781.75
+4,"SBI Surat Branch 4","Urban","Surat","Gujarat",3,5,5,993148.00,99,72682434.87
+5,"SBI Chandigarh Branch 5","Metro","Chandigarh","Chandigarh",3,6,6,1302590.00,111,82492118.46
+6,"SBI Surat Branch 6","Rural","Surat","Gujarat",3,5,5,1542421.00,88,63755061.63
+7,"SBI Bengaluru Branch 7","Metro","Bengaluru","Karnataka",3,15,15,4044341.00,274,213188544.72
+8,"SBI Pune Branch 8","Rural","Pune","Maharashtra",3,5,5,3226388.00,98,70262841.27
+9,"SBI Patna Branch 9","Rural","Patna","Bihar",3,3,3,607609.00,43,29161502.55
+10,"SBI Surat Branch 10","Semi-Urban","Surat","Gujarat",3,1,1,477800.00,21,12760066.02
+11,"SBI Pune Branch 11","Urban","Pune","Maharashtra",3,8,8,2319841.00,131,104354405.40
+12,"SBI Lucknow Branch 12","Metro","Lucknow","Uttar Pradesh",3,4,4,880214.00,62,45012343.32
+13,"SBI Delhi Branch 13","Rural","Delhi","Delhi",3,4,4,877786.00,75,53991380.34
+14,"SBI Delhi Branch 14","Semi-Urban","Delhi","Delhi",3,6,6,4376975.00,90,70524942.63
+15,"SBI Bengaluru Branch 15","Metro","Bengaluru","Karnataka",3,5,5,1180670.00,85,62238148.89
+16,"SBI Bengaluru Branch 16","Semi-Urban","Bengaluru","Karnataka",3,7,6,3270673.00,113,75949224.39
+17,"SBI Patna Branch 17","Rural","Patna","Bihar",3,6,6,2345873.00,113,84745205.82
+18,"SBI Noida Branch 18","Rural","Noida","Uttar Pradesh",3,2,2,290416.00,41,31103675.73
+19,"SBI Lucknow Branch 19","Urban","Lucknow","Uttar Pradesh",3,9,9,6846937.00,146,110975796.75
+20,"SBI Indore Branch 20","Semi-Urban","Indore","Madhya Pradesh",3,1,1,93833.00,18,12183446.82
+21,"SBI Chennai Branch 21","Urban","Chennai","Tamil Nadu",3,8,8,3682842.00,120,89924073.09
+22,"SBI Bhubaneswar Branch 22","Semi-Urban","Bhubaneswar","Odisha",3,9,9,3187489.00,137,115151469.33
+23,"SBI Bhopal Branch 23","Semi-Urban","Bhopal","Madhya Pradesh",3,4,4,1876302.00,72,52717115.97
+24,"SBI Ahmedabad Branch 24","Urban","Ahmedabad","Gujarat",3,7,7,1857734.00,108,85777492.74
+25,"SBI Bhubaneswar Branch 25","Semi-Urban","Bhubaneswar","Odisha",3,4,4,2613223.00,65,51368512.86
+26,"SBI Patna Branch 26","Rural","Patna","Bihar",3,2,2,241233.00,33,25133243.10
+27,"SBI Indore Branch 27","Rural","Indore","Madhya Pradesh",3,7,7,2345050.00,107,85388589.21
+28,"SBI Noida Branch 28","Rural","Noida","Uttar Pradesh",3,3,3,1662468.00,46,30916403.46
+29,"SBI Surat Branch 29","Rural","Surat","Gujarat",3,5,5,1624758.00,72,47802224.61
+30,"SBI Surat Branch 30","Urban","Surat","Gujarat",3,6,6,1136595.00,87,61938983.61
+31,"SBI Nagpur Branch 31","Metro","Nagpur","Maharashtra",3,5,5,3035834.00,77,70007358.00
+32,"SBI Noida Branch 32","Urban","Noida","Uttar Pradesh",3,6,6,827185.00,101,84527949.30
+33,"SBI Gurugram Branch 33","Urban","Gurugram","Haryana",3,8,7,2493299.00,117,86278530.21
+34,"SBI Nagpur Branch 34","Urban","Nagpur","Maharashtra",3,8,8,2343260.00,136,102717800.70
+35,"SBI Bhopal Branch 35","Urban","Bhopal","Madhya Pradesh",3,4,4,1040929.00,82,63731350.50
+36,"SBI Gurugram Branch 36","Metro","Gurugram","Haryana",3,6,6,1792408.00,116,87454834.74
+37,"SBI Bhopal Branch 37","Metro","Bhopal","Madhya Pradesh",3,4,4,1006548.00,71,54611981.13
+38,"SBI Bengaluru Branch 38","Urban","Bengaluru","Karnataka",3,8,8,1911340.00,147,112699140.45
+39,"SBI Bhopal Branch 39","Semi-Urban","Bhopal","Madhya Pradesh",3,7,7,2250173.00,124,96135442.74
+40,"SBI Chennai Branch 40","Semi-Urban","Chennai","Tamil Nadu",3,12,12,4568535.00,217,156893455.29
+41,"SBI Hyderabad Branch 41","Urban","Hyderabad","Telangana",3,7,6,1426417.00,114,88591246.59
+42,"SBI Kolkata Branch 42","Rural","Kolkata","West Bengal",3,12,11,4175968.00,196,141121843.29
+43,"SBI Pune Branch 43","Urban","Pune","Maharashtra",3,9,8,2392595.00,148,105279975.75
+44,"SBI Surat Branch 44","Urban","Surat","Gujarat",3,6,6,2355366.00,98,76812582.42
+45,"SBI Gurugram Branch 45","Metro","Gurugram","Haryana",3,7,7,3279783.00,96,76034827.08
+46,"SBI Kochi Branch 46","Semi-Urban","Kochi","Kerala",3,5,5,2572554.00,67,53216527.74
+47,"SBI Noida Branch 47","Urban","Noida","Uttar Pradesh",3,7,7,2373714.00,109,81795385.02
+48,"SBI Gurugram Branch 48","Rural","Gurugram","Haryana",3,1,1,156347.00,19,13959998.46
+49,"SBI Gurugram Branch 49","Metro","Gurugram","Haryana",3,8,8,1642986.00,135,111016802.40
+50,"SBI Bengaluru Branch 50","Semi-Urban","Bengaluru","Karnataka",3,6,6,2051732.00,103,70855086.54
